@@ -1,0 +1,35 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1f1bb808-4c07-b9fe-9d51-982b37fd29b1",
+      "60b08945-4891-41b1-d23e-2511bddd7952",
+      "9d1e0b3a-f6c7-1c9d-d5dc-16894d2a5140"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Transport Processes",
+  "course_description": "Principles of heat and mass transfer. Steady and transient conduction and diffusion. Radiative heat transfer. Convective transport of heat and mass in both laminar and turbulent flows. Emphasis on the development of a physical understanding of the underlying phenomena and upon the ability to solve real heat and mass transfer problems of engineering significance.\n",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "10.302",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams"
+  ],
+  "title": "Course Metadata"
+}
